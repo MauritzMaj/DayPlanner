@@ -17,7 +17,7 @@ The colors of the planner change throughout the day, based on the current time.
 The date on top of the planner changes to reflect the current date.
 
 See screenshot of application below:
-https://user-images.githubusercontent.com/105758175/206308724-53366678-cb95-49a5-aae9-b5fea5973add.png
+![image](https://user-images.githubusercontent.com/105758175/208552315-364e48f2-3b6c-49ac-9076-efc55cba1b32.png)
 
 Here is the link to the deployed application:
 https://mauritzmaj.github.io/DayPlanner/
